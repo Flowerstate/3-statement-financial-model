@@ -30,5 +30,5 @@ The toggle is an Excel form control, so it only works in desktop Excel and won't
 ##  Author
 **Andrii Serdiuk**  
 * Economics Graduate | CFA Level I Passed  
-* **LinkedIn:** https://www.linkedin.com/in/andrii-s%D0%B5rdiuk/?isSelfProfile=true
+* **LinkedIn:** https://www.linkedin.com/in/andrii-serdiuk-/?isSelfProfile=true)
 * **Location:** Warsaw, Poland
