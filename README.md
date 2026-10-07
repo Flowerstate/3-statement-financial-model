@@ -19,7 +19,7 @@ Revenue and cost drivers feed the P&L, the supporting schedules feed the balance
 ## Conventions
 
 - Blue font for hardcoded historical inputs, black for formulas.
-- No hardcoded numbers in forecast periods.
+- No hardcoded numbers in forecast periods. 
 - A balance check row flags any imbalance immediately.
 - A scenario toggle switches between cases.
 
